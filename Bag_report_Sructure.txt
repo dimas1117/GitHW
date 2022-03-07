@@ -1,0 +1,9 @@
+1) Number 
+2) Summary
+3) Desqription
+4) Actual result
+5) Expected result
+6) Enviroment
+7) Steps to reproduce
+8) Severity
+9) Priority
